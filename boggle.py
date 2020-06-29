@@ -7,15 +7,6 @@ This program recursively finds all the word that
 more than four alphabets and terminates when input
 string is not alphabet or input string is more than
 one character.
-
-If you correctly implement this program,
-you should see number of word in below.
-
-	* Input = [f y c l   -> 21 words
-			i o m g
-			o r i l
-			h j h u]
-
 """
 
 # This is the file name of the dictionary txt file
